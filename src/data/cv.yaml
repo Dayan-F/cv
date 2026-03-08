@@ -1,0 +1,169 @@
+fr:
+  name: "Dayan FATAYRI"
+  title: "Ingénieure vision par ordinateur"
+  summary: "Ingénieure en vision par ordinateur et IA avec 2+ ans d'expérience en deep learning, traitement de données multi-capteurs (RGB, LiDAR, multispectral, thermique) et développement de pipelines automatisés. Actuellement en montée en compétences sur l'IA générative et les systèmes à base d'agents (LangChain, LangGraph, RAG)."
+  mail: dayanfatayri44@gmail.com
+  location: "Paris, France"
+  github: Dayan-F
+  linkedin: dayan-fatayri-357170208
+  linkedinLabel: dayan-fatayri
+  phone: "0665614557"
+  skills:
+    ml:
+      - PyTorch
+      - TensorFlow
+      - scikit-learn
+      - OpenCV
+      - Open3D
+      - Pandas
+      - Numpy
+    devops:
+      - Python
+      - C/C++
+      - Docker
+      - Celery
+      - Git
+      - Bitbucket
+      - Jira
+      - Grafana
+      - OpenSearch
+      - AWS S3
+      - Linux
+    llmAgents:
+      - Claude
+      - LangChain
+      - LangGraph
+      - RAG
+    languages:
+      - "Français (courant)"
+      - "Anglais (courant)"
+      - "Arabe (langue maternelle)"
+  experiences:
+    - company: "Hiphen"
+      position: "Ingénieure Computer Vision"
+      location: "Avignon, France"
+      duration: "2024 — Présent"
+      icon: "hiphen.webp"
+      isFormation: false
+      description: "Développement et mise en production de modèles de vision par ordinateur temps réel pour le domaine de l'agriculture."
+      bullets:
+        - "Optimiser et maintenir les chaînes de traitement existantes basées sur des caméras (RGB, multispectral, thermique) et des capteurs 3D (LiDAR, stéréovision)"
+        - "Développer des modules d'extraction de traits végétaux (volume, hauteur, LAI, NDVI, comptage de plantes/épis) via des méthodes classiques (morphologie, calcul géométrique sur nuages de points) et deep learning"
+        - "Mettre en place un pipeline de traitement automatique réduisant le temps de traitement d'une campagne annuelle de ~1 an à ~10 jours"
+        - "Piloter des projets clients de A à Z, de la calibration capteurs au déploiement de workers automatisant le traitement et la livraison des données"
+        - "Collaborer avec des partenaires internationaux : UM6P, ICARDA (Maroc), INRAE, MHCS"
+    - company: "Expleo"
+      position: "Stagiaire Data Scientist / CV"
+      location: "Toulouse, France"
+      duration: "Fév. — Août 2023"
+      icon: "expleo.png"
+      isFormation: false
+      description: "Détection d'anomalies sur produits pharmaceutiques (seringues)."
+      bullets:
+        - "Implémentation et benchmark de modèles de détection d'objets (YOLOv5, YOLOv8) pour la classification anomalie/non-anomalie sur images de seringues — 98 % de précision atteinte"
+        - "Prétraitement du dataset d'images pharmaceutiques et pipeline d'augmentation de données"
+        - "Conteneurisation du modèle avec Docker pour livraison en production"
+        - "Projet mené en autonomie au sein du département Innovation"
+    - company: "Université Toulouse Paul Sabatier"
+      position: "Master Signal, image et apprentissage automatique"
+      location: "Toulouse, France"
+      duration: "2021 — 2023"
+      icon: "paul_sab.jpg"
+      isFormation: true
+      description: "Conception et réalisation de systèmes de traitement du signal, de l'image et de la vidéo, avec une spécialisation en machine learning appliqué."
+      bullets: []
+    - company: "Université Toulouse Paul Sabatier"
+      position: "Licence EEA (Électronique, Énergie Électrique, Automatique)"
+      location: "Toulouse, France"
+      duration: "2018 — 2021"
+      icon: "paul_sab.jpg"
+      isFormation: true
+      description: ""
+      bullets: []
+  hobbies: []
+  publications: []
+
+en:
+  name: "Dayan FATAYRI"
+  title: "Computer Vision Engineer"
+  summary: "Computer Vision & AI Engineer with 2+ years of experience in deep learning, multisensor data processing (RGB, LiDAR, multispectral, thermal), and automated pipeline development. Currently expanding into generative AI and agent-based systems (LangChain, LangGraph, RAG)."
+  mail: dayanfatayri44@gmail.com
+  location: "Paris, France"
+  github: Dayan-F
+  linkedin: dayan-fatayri-357170208
+  linkedinLabel: dayan-fatayri
+  phone: "0665614557"
+  skills:
+    ml:
+      - PyTorch
+      - TensorFlow
+      - Scikit-learn
+      - OpenCV
+      - Open3D
+      - Pandas
+      - NumPy
+    devops:
+      - Python
+      - C/C++
+      - Docker
+      - Celery
+      - Git
+      - Bitbucket
+      - Jira
+      - Grafana
+      - OpenSearch
+      - AWS S3
+      - Linux
+    llmAgents:
+      - Claude
+      - LangChain
+      - LangGraph
+      - RAG
+    languages:
+      - "French (fluent)"
+      - "English (fluent)"
+      - "Arabic (native)"
+  experiences:
+    - company: "Hiphen"
+      position: "Computer Vision Engineer"
+      location: "Avignon, France"
+      duration: "2024 — Present"
+      icon: "hiphen.webp"
+      isFormation: false
+      description: "Development and deployment of real-time computer vision models for the agriculture domain."
+      bullets:
+        - "Optimize and maintain existing processing pipelines based on cameras (RGB, multispectral, thermal) and 3D sensors (LiDAR, stereovision)"
+        - "Develop plant trait extraction modules (volume, height, LAI, NDVI, plant/ear counting) using classical methods (morphology, geometric computation on point clouds) and deep learning"
+        - "Set up an automated processing pipeline reducing annual campaign processing time from ~1 year to ~10 days"
+        - "Lead client projects end to end, from sensor calibration to deployment of workers automating data processing and delivery"
+        - "Collaborate with international partners: UM6P, ICARDA (Morocco), INRAE, MHCS"
+    - company: "Expleo"
+      position: "Data Scientist / CV Intern"
+      location: "Toulouse, France"
+      duration: "Feb. — Aug. 2023"
+      icon: "expleo.png"
+      isFormation: false
+      description: "Anomaly detection on pharmaceutical products (syringes)."
+      bullets:
+        - "Implementation and benchmarking of object detection models (YOLOv5, YOLOv8) for anomaly/non-anomaly classification on syringe images — 98% accuracy achieved"
+        - "Preprocessing of pharmaceutical image dataset and data augmentation pipeline"
+        - "Model containerization with Docker for production delivery"
+        - "Project led independently within the Innovation department"
+    - company: "Université Toulouse Paul Sabatier"
+      position: "Master's in Signal, Image and Machine Learning"
+      location: "Toulouse, France"
+      duration: "2021 — 2023"
+      icon: "paul_sab.jpg"
+      isFormation: true
+      description: "Design and implementation of signal, image and video processing systems, with a focus on applied machine learning."
+      bullets: []
+    - company: "Université Toulouse Paul Sabatier"
+      position: "Bachelor's in EEA (Electronics, Electrical Energy, Automation)"
+      location: "Toulouse, France"
+      duration: "2018 — 2021"
+      icon: "paul_sab.jpg"
+      isFormation: true
+      description: ""
+      bullets: []
+  hobbies: []
+  publications: []
