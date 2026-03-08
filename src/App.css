@@ -1,0 +1,56 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+  text-align: left;
+}
+
+/* Smooth scrolling for better UX */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Better focus styles for accessibility */
+*:focus {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}
+
+/* Improved transitions */
+.transition-all {
+  transition: all 0.2s ease-in-out;
+}
+
+.print-only {
+  visibility: hidden;
+  height: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+@media print {
+  html, body {
+    width: 210mm;
+    margin: 0;
+    padding: 0;
+  }
+  @page {
+    size: A4;
+    margin: 0;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .no-print img,
+  .no-print .rounded-xl img {
+    max-width: 50px !important;
+    height: auto !important;
+  }
+  .print-only {
+    visibility: visible !important;
+    height: auto !important;
+    overflow: visible !important;
+    pointer-events: auto !important;
+    display: block !important;
+  }
+}
